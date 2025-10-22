@@ -10,7 +10,7 @@ Naukri Job Scraper GUI
 2. Enter your search parameters:
 - Keyword (e.g., "AI Developer")
 - Location (e.g., "Bangalore")
-- Experience (0-5 years)
+- Experience (e.g., 0)
 - Sort** ('f' for date, 'r' for relevance)
 - Results per page (e.g., 20)
 - Max pages (0 to scrape all pages)
