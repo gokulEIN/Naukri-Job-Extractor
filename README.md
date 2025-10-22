@@ -1,5 +1,7 @@
 Naukri Job Scraper GUI
 
+![App Screenshot](screenshot.png)
+
 1. Features
 - Search jobs by keyword, location, experience (0-5 years), sort order (by date or relevance), results per page, and max pages.
 - Automatically scrape until last page if max pages set to 0.
